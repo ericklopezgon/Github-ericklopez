@@ -1,11 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Raleway:wght@300;500&display=swap');
+
 body {
   font-family: "Raleway", sans-serif;
+}
+
+.navbar-expand-lg .navbar-brand {
+  font-family: 'Caveat', cursive;
 }
 
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/main.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
